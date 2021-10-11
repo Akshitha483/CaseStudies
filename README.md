@@ -1,2 +1,2 @@
 # Parking-Lot
-Simple Project that simulate a little parking lot using ES6 Javascript and manipulate LocalStorage!
+Click here for demo https://akshitha483.github.io/CaseStudies/
